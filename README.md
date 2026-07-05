@@ -1,1 +1,0 @@
-A responsive and user-friendly web page developed using HTML and CSS.
